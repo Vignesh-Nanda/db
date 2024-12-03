@@ -1,0 +1,34 @@
+Disease,Ingredients to Avoid,Serving Size (g),Calories Min,Calories Max,Total Fat Min (g),Total Fat Max (g),Saturated Fat Min (g),Saturated Fat Max (g),Trans Fat Min (g),Trans Fat Max (g),Cholesterol Min (mg),Cholesterol Max (mg),Sodium Min (mg),Sodium Max (mg),Total Carbohydrates Min (g),Total Carbohydrates Max (g),Sugar Min (g),Sugar Max (g),Protein Min (g),Protein Max (g),Vitamins,Minerals
+Type 1 Diabetes,"MSG, Saturated fats,Trans fats",100,120,350,5,20,0,5,0,1,0,30,200,600,10,60,0,15,10,20," Vitamin D, C","Potassium >3500 mg/day, Magnesium"
+Type 2 Diabetes,"Lactose, milk, soft cheeses, cream",100,120,350,5,20,0,5,0,1,0,30,200,600,10,60,0,15,10,20,Vitamin D >400 IU/day,Calcium >1000 mg/day
+Leukemia,"Gluten, wheat, barley, rye",100,150,400,5,15,0,5,0,1,0,30,100,500,20,60,0,15,10,20," Vitamin D, B12","Magnesium, Zinc"
+Hypothyroidism,-,100,120,300,5,20,0,5,0,1,0,30,100,500,15,50,0,12,10,20,Vitamin D 600-800 IU/day,Calcium >1000 mg/day
+Iron Deficiency Anemia,"sucrose, corn syrup,Refined carbs, white bread, pastries, Trans fats",100,150,350,5,20,0,5,0,1,0,30,100,500,15,60,0,10,10,20, Vitamin D,"Magnesium, Calcium"
+Hypertension,"High glycemic index foods ( white rice, candy); Added sugars; Saturated and trans fats",100,120,350,5,20,0,5,0,1,0,30,100,1500,15,60,0,12,10,20," Vitamin B1, B6","Magnesium, Chromium"
+Lactose Intolerance,"Refined carbs, Sugary beverages, Processed foods, Trans fats",100,120,350,5,20,0,5,0,1,0,30,100,500,10,60,0,10,5,15," Vitamin D, B12","Magnesium, Zinc"
+Celiac Disease,"Trans fats, Saturated fats, Cholesterol-rich foods ( egg yolk, organ meats)",100,150,350,5,15,0,5,0,1,0,30,100,500,20,60,0,10,10,20," Vitamin C, E","Magnesium, Potassium"
+Vitamin D Deficiency,"High sodium, Saturated fat, trans fats",100,120,300,5,20,0,5,0,1,0,30,100,500,15,50,0,10,10,20, Vitamin D,"Potassium, Magnesium"
+Gestational Diabetes,"High fiber, Dairy, Spicy, Fried",100,180,350,10,20,0,5,0,1,0,30,100,600,20,60,0,15,15,25, Vitamin D,"Zinc, Magnesium"
+Insulin Resistance,"High fiber, Dairy, Spicy, Fried",100,150,350,5,20,0,5,0,1,0,30,200,600,10,50,0,15,10,20," Vitamin D, C","Zinc, Iron"
+Polycystic Ovary Syndrome (PCOS),"FODMAP , onions, garlic, lactose, Artificial sweeteners, sorbitol",100,150,350,5,15,0,5,0,1,0,30,100,500,10,40,0,15,10,25, Vitamin B6,"Magnesium, Potassium"
+High Cholesterol,"High sodium, High potassium, bananas, potatoes,  Phosphorus ,soda",100,120,300,5,20,0,5,0,1,0,30,100,500,15,50,0,10,10,20, Vitamin D,Phosphorus <800 mg/day
+Heart Failure,High potassium; High sodium; High phosphorus foods,100,120,350,5,20,0,5,0,1,0,30,100,1500,20,60,0,15,10,20, Vitamin D,"Phosphorus <800 mg/day, Potassium <2000 mg/day"
+Crohn’s Disease,"High carbohydrate, Artificial sweeteners",100,150,350,5,15,0,5,0,1,0,30,100,500,10,60,0,8,10,20," Vitamin D, B6","Magnesium, Potassium"
+Osteoporosis,"Caffeine in excess, Phytates, unsoaked legumes",100,150,300,5,15,0,5,0,1,0,30,100,500,15,50,0,10,10,25,"Calcium >1200 mg/day, Vitamin D >800 IU/day","Magnesium, Phosphorus"
+Chronic Kidney Disease (CKD),"High-calorie foods, Sugary beverages,Trans fats, Refined carbs",100,150,300,5,15,0,5,0,1,0,30,50,600,15,50,0,10,5,20," Vitamin D, C","Potassium, Magnesium"
+End-Stage Renal Disease (ESRD),High-sodium snacks; Sugary foods; Processed foods with preservatives; Excess protein in single meals (interferes with medication absorption),100,150,300,5,15,0,5,0,1,0,30,50,500,10,50,0,10,5,25, Vitamin E and C," Magnesium, Zinc"
+Epilepsy,High-sodium snacks; Alcohol; Fried and greasy foods; Processed meats,100,150,350,5,20,0,5,0,1,0,30,100,500,10,40,0,10,10,25, Vitamin A and E," Selenium, Zinc"
+Obesity,"Sulfites, dried fruits, MSG, Artificial sweeteners, Trans fats",100,100,300,5,15,0,5,0,1,0,30,100,500,10,50,0,15,10,25," Vitamin C, D"," Magnesium, Zinc"
+Hepatitis,High-sodium foods; Sugary snacks; Processed meats; Carbonated beverages,100,150,300,5,20,0,5,0,1,0,30,100,500,20,60,0,10,10,20," Vitamin D, C"," Magnesium, Potassium"
+Asthma,"Trans fats, sodium ,Artificial sweeteners, Fried foods",100,150,350,5,15,0,5,0,1,0,30,100,500,20,60,0,10,10,20," Vitamin A, D, E, and K", Sodium and Zinc
+Parkinson's Disease,"Trans fats, Sugary snacks, Processed meats, Artificial preservatives",100,150,350,5,15,0,5,0,1,0,30,100,500,15,50,0,10,10,20," Vitamin D, C"," Magnesium, Zinc"
+Rheumatoid Arthritis,Excess sodium; Caffeine; Sugary snacks,100,150,350,5,15,0,5,0,1,0,30,100,500,15,50,0,10,10,20," Vitamin D, K"," Calcium, Magnesium"
+Chronic Obstructive Pulmonary Disease (COPD),Sugary snacks; Fried foods; Artificial sweeteners; Processed foods,100,150,350,5,20,0,5,0,1,0,30,100,500,15,50,0,10,10,20," Vitamin C, E"," Zinc, Selenium"
+Cystic Fibrosis,High-sodium snacks; Sugary snacks; Trans fats,100,200,400,10,25,0,8,0,1,0,30,200,800,20,60,0,15,15,30," Vitamin A, C"," Magnesium, Zinc"
+Osteopenia,Sugary snacks; Processed snacks; High-sodium foods,100,150,300,5,15,0,5,0,1,0,30,100,500,15,50,0,25,10,20, Vitamin D," Calcium, Magnesium"
+Sarcopenia,"Trans fats ( partially hydrogenated oils); High sodium; Sugary snacks ( biscuits, candies); Artificial sweeteners; Processed meats",100,200,400,10,25,0,8,0,1,0,30,100,500,20,60,0,25,15,30," Vitamin D, C, and E"," Calcium, Magnesium, and Zinc"
+Hashimoto's Thyroiditis,"High-fat snacks ( chips, pringles); Sugary beverages; Processed foods with artificial preservatives",100,150,300,5,15,0,5,0,1,0,30,100,500,15,50,0,25,10,20," Vitamin A, D, and E"," Calcium, Potassium, and Zinc"
+Lupus,"Goitrogens ( raw cabbage, soy); Gluten (if sensitive); High-sugar snacks ( cakes, pastries)",100,150,350,5,15,0,5,0,1,0,30,100,500,20,60,0,25,10,25, Vitamin D and Selenium, Iodine and Magnesium
+Multiple Sclerosis,Trans fats ( margarine); Processed snacks; Sugary beverages; Excess caffeine,100,150,350,5,20,0,5,0,1,0,30,100,500,15,50,0,25,10,25, Vitamin D and B12, Magnesium and Calcium
+Kidney Stones,"oxalate, spinach, nuts, Sodium, chips, canned foods, Sugary snacks",100,150,300,5,15,0,5,0,1,0,30,100,500,15,50,0,25,10,20, Vitamin C (not excessive),Potassium <2000 mg/day; Calcium: Balanced
+Cirrhosis,High sodium; Alcohol; Processed foods with preservatives,100,200,400,5,15,0,5,0,1,0,30,100,500,20,50,0,25,15,25, Vitamin K and D," Magnesium, Calcium"
